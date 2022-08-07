@@ -1,6 +1,6 @@
 # Mars Rover
 
-A demo of Shape-shifting, object avoidance Rover
+A demo of a shape-shifting, object avoidance rover
 <br>
 <img src="https://github.com/noelleon2001/mars-rover/blob/main/rover.png?raw=true" width="500">
 
