@@ -26,7 +26,7 @@ A demo of Shape-shifting, object avoidance Rover
    * Anemometer
    * ESP32 camera
 
-## Images
+## Images & Videos
 
 Chassis
 <br>
