@@ -2,7 +2,7 @@
 
 A demo of Shape-shifting, object avoidance Rover
 <br>
-<img src="https://github.com/noelleon2001/IP-scraper-and-app/blob/main/rover.png?raw=true" width="500">
+<img src="https://github.com/noelleon2001/mars-rover/blob/main/rover.png?raw=true" width="500">
 
 ## Description
 1. Uses solar charging system
@@ -30,14 +30,14 @@ A demo of Shape-shifting, object avoidance Rover
 
 Chassis
 <br>
-<img src="https://github.com/noelleon2001/IP-scraper-and-app/blob/main/chassis.png?raw=true" width="500">
+<img src="https://github.com/noelleon2001/mars-rover/blob/main/chassis.png?raw=true" width="500">
 <br>
 Shape-shifting Mechanism
 <br>
-<img src="https://github.com/noelleon2001/IP-scraper-and-app/blob/main/sides.png?raw=true" width="500">
+<img src="https://github.com/noelleon2001/mars-rover/blob/main/sides.png?raw=true" width="500">
 <br>
-<img src="https://github.com/noelleon2001/IP-scraper-and-app/blob/main/shape-shifting.gif?raw=true" width="500">
+<img src="https://github.com/noelleon2001/mars-rover/blob/main/shape-shifting.gif?raw=true" width="500">
 <br>
 Object avoidance DEMO
 <br>
-<img src="https://github.com/noelleon2001/IP-scraper-and-app/blob/main/object-avoidance.gif?raw=true" width="500">
+<img src="https://github.com/noelleon2001/mars-rover/blob/main/object-avoidance.gif?raw=true" width="500">
